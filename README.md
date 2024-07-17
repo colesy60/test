@@ -1,3 +1,2 @@
-# test
-coursera test
-This is a courera test
+# Test
+This is a coursera test
